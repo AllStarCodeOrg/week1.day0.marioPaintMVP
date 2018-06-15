@@ -12,6 +12,10 @@
     - Inside of the function, create a simple shape that will be drawn at the mouse’s location
     - Use the `random()` function from p5.js to create the shape with different dimensions each time the shape is created
       - _NOTE: this is different from `Math.random()`_
+3. AFTER LUNCH:
+   - Draw 3 shapes to the canvas and give them 3 different colors (these will serve as “buttons” for color selection).
+   - When the user clicks or presses on these “buttons”, the color values inside of the `mouseDragged()` function should change to match.
+   - Finally, create a button for the user to clear the canvas completely and start over.
 
 ## Extra Credit
 - In addition to changing the dimension of the shape, also change the shape’s `fill()` color to a random color each time the mouse is dragged
