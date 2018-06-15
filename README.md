@@ -12,7 +12,7 @@
     - Inside of the function, create a simple shape that will be drawn at the mouse’s location
     - Use the `random()` function from p5.js to create the shape with different dimensions each time the shape is created
       - _NOTE: this is different from `Math.random()`_
-3. AFTER LUNCH:
+3. Large Tasks:
    - Draw 3 boxes to the canvas and give them 3 different colors (these will serve as “buttons” for color selection).
    - When the user clicks or presses on these “buttons”, the color values inside of the `mouseDragged()` function should change to match (See [`mouseClicked()`](https://p5js.org/reference/#/p5/mouseClicked)).
      - *HINT: Consider where the `mouseX` and `mouseY` is when the it’s clicked and what counts as being inside of the “button”.*
